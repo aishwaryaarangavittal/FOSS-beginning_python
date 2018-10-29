@@ -7,6 +7,7 @@ i=0
 for i in range (tmp):
      print list[i]
 i=0
+#sorting
 for i in range (tmp-1):
     j=i
     for j in range (tmp-i-1):
